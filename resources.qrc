@@ -288,4 +288,7 @@
     <file>Icons/airplay.svg</file>
     <file>Icons/activity.svg</file>
   </qresource>
+  <qresource prefix="images">
+    <file>Images/7692809.png</file>
+  </qresource>
 </RCC>
